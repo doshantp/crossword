@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Autobiography",
+    "title": "Baburnama",
+    "price": 0,
+    "category": "Free",
+    "img": "https://m.media-amazon.com/images/I/71VFYdbNERL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Autobiography",
+    "title": "Wings of Fire",
+    "price": 799,
+    "category": "Paid",
+    "img": "https://rukminim2.flixcart.com/image/850/1000/kjkbv680-0/book/p/r/m/wings-of-fire-original-imafz3pawzphkecj.jpeg?q=90&crop=false"
+  },
+  {
+    "name": "Autobiography",
+    "title": "Becoming",
+    "price": 1299,
+    "category": "Paid",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528206996i/38746485.jpg"
+  },
+  {
+    "name": "Autobiography",
+    "title": "I Am Malala",
+    "price": 899,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/91LlwvTTJSL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Poetry",
+    "title": "Rumi",
+    "price": 0,
+    "category": "Free",
+    "img": "https://m.media-amazon.com/images/I/81bCm1Z9AXL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Poetry",
+    "title": "Stilness ",
+    "price": 1299,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/61Xf32dhcyL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Poetry",
+    "title": "Petals",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://cdn.kobo.com/book-images/f52b1b41-90a3-450b-b427-fe57e57352b8/1200/1200/False/petals-of-healing-a-poetry-book-for-women-about-self-love-and-healing-from-toxic-relationships.jpg"
+  },
+  {
+    "name": "Poetry",
+    "title": "Harmony",
+    "price": 799,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/81pPwzFy9KL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Thriller",
+    "title": "Gone Girl",
+    "pric": 1199,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/71NV0obX14L._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+  },
+  {
+    "name": "Thriller",
+    "title": "Rebecca",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/816JLxXG3YL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Thriller",
+    "title": "Misery",
+    "price": 799,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/81or2duGL3L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Thriller",
+    "title": "The Shining",
+    "price": 599,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/81CuEX3W9UL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Story",
+    "title": "Harry Poter",
+    "price": 0,
+    "category": "Free",
+    "img": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale/jackets/9781408855652.jpg"
+  },
+  {
+    "name": "Story",
+    "title": "Alices",
+    "price": 599,
+    "category": "Paid",
+    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/96129a45662211.58384f2c6a5a9.jpg"
+  },
+  {
+    "name": "Story",
+    "title": "Pinocchio",
+    "price": 199,
+    "category": "Paid",
+    "img": "https://rukminim2.flixcart.com/image/850/1000/book/6/0/6/pinocchio-original-imaeghze658vgezz.jpeg?q=90&crop=false"
+  },
+  {
+    "name": "Story",
+    "title": "Last Leaf",
+    "price": 1599,
+    "category": "Paid",
+    "img": "https://artpsychoblog.files.wordpress.com/2018/02/2018-05-03-15-29-51.png"
+  },
+  {
+    "name": "Fitness",
+    "title": "Knife",
+    "price": 799,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/81IYXvK+3ML._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+  },
+  {
+    "name": "Fitness",
+    "title": "Powerfull",
+    "price": 0,
+    "category": "Free",
+    "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781398535732/powerful-9781398535732_hr.jpg"
+  },
+  {
+    "name": "Fitness",
+    "title": "Born To Run",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/71YrmCh3geL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Fitness",
+    "title": "No Sweat",
+    "price": 1299,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/71QCL-XaRwL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Fiction",
+    "title": "Mrityunjay",
+    "price": 0,
+    "category": "Free",
+    "img": "https://champaca.in/cdn/shop/files/91dbszdzeYL._SL1500_1024x1024@2x.jpg?v=1712224282"
+  },
+  {
+    "name": "Finance",
+    "title": "Zero To One",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/71uAI28kJuL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Biography",
+    "title": "Gobind",
+    "price": 0,
+    "category": "Free",
+    "img": "https://cdn.penguin.co.in/wp-content/uploads/2024/03/9780143464327.jpg"
+  },
+  {
+    "name": "Kids",
+    "title": "Robodog",
+    "price": 899,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/81Pwz95b0xL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Kids",
+    "title": "Toy Story",
+    "price": 0,
+    "category": "Free",
+    "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780794450151/disney-pixar-toy-story-9780794450151_hr.jpg"
+  },
+  {
+    "name": "Kids",
+    "title": "Jungle Book",
+    "price": 0,
+    "category": "Free",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/44/Junglebook2009.jpg"
+  },
+  {
+    "name": "Horror",
+    "title": "Black Forest",
+    "price": 1799,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/715jjfXVBlL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Science Fiction",
+    "title": "Dune",
+    "price": 1999,
+    "category": "Paid",
+    "img": "https://img1.od-cdn.com/ImageType-400/1523-1/%7BC8EE0AA0-60B0-4275-8127-0DFC98E4C0E4%7Dimg400.JPG"
+  },
+  {
+    "name": "Fantasy",
+    "title": "Lord of Rings",
+    "price": 2495,
+    "category": "Paid",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351.jpg"
+  },
+  {
+    "name": "Mystery",
+    "title": "Were None",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/41RpulOsOoL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Classics",
+    "title": "Pride and Prejudice",
+    "price": 0,
+    "category": "Free",
+    "img": "https://images.squarespace-cdn.com/content/v1/5d253c231b7b3d000152f204/1636959802830-AW7JAWUJGCXXUYVIZC3J/Pride_and_Prejudice_Cover-Amazon-Front__77495.1569338564.386.513.jpg"
+  },
+  {
+    "name": "History",
+    "title": " Everything",
+    "price": 1499,
+    "category": "Paid",
+    "img": "https://c8.alamy.com/comp/2AA48K8/the-very-hungry-caterpillar-childrens-book-by-eric-carle-greater-london-england-united-kingdom-2AA48K8.jpg"
+  },
+  {
+    "name": "Philosophy",
+    "title": "Meditations",
+    "price": 899,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/71oNHPRgVUL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Science",
+    "title": "History of Time",
+    "price": 1299,
+    "category": "Paid",
+    "img": "https://rukminim2.flixcart.com/image/850/1000/l5jxt3k0/book/t/j/w/the-illustrated-a-brief-history-of-time-original-imagg6znptrzytje.jpeg?q=90&crop=false"
+  },
+  {
+    "name": "Self-Help",
+    "title": "The Power of Habit",
+    "price": 1699,
+    "category": "Paid",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545854312i/12609433.jpg"
+  },
+  {
+    "name": "Dystopian",
+    "title": "The Hunger Games",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Hunger_Games_cover.jpg"
+  },
+  {
+    "name": "Cooking",
+    "title": "Salt Fat",
+    "price": 2299,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/718Qpw4miiL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Travel",
+    "title": "Eat Pray Love",
+    "price": 1599,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/41B1cw0HfVL.jpg"
+  },
+  {
+    "name": "Art",
+    "title": "An Artist",
+    "price": 1899,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/61E8+iM9dLL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Young Adult",
+    "title": "Fault in Stars",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg"
+  },
+  {
+    "name": "Poetry",
+    "title": "Leaves of Grass",
+    "price": 899,
+    "category": "Paid",
+    "img": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781416523710_9781416523710_hr.jpg"
+  },
+  {
+    "name": "Science Fiction",
+    "title": "Ender's Game",
+    "price": 0,
+    "category": "Free",
+    "img": "https://m.media-amazon.com/images/I/91T-14y8aTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Fantasy",
+    "title": "The Wind",
+    "price": 1999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/91UzPegYyjL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Mystery",
+    "title": "A Orient Express",
+    "price": 1199,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/810VrFq9v6L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Classics",
+    "title": "Huckleberry Finn",
+    "price": 0,
+    "category": "Free",
+    "img": "https://m.media-amazon.com/images/I/91sBZnKzEfL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Children's",
+    "title": "Goodnight Moon",
+    "price": 0,
+    "category": "Free",
+    "img": "https://m.media-amazon.com/images/I/81wdk+Vy79L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "History",
+    "title": "Sapiens",
+    "price": 1699,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Philosophy",
+    "title": " Zarathustra",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/81uJNoHnXvL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Self-Help",
+    "title": "Atomic Habits",
+    "price": 1599,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/81Ls+SBCLiL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Thriller",
+    "title": "The Lambs",
+    "price": 1299,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/71wytopNhPL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Romance",
+    "title": "Wuthering Heights",
+    "price": 0,
+    "category": "Free",
+    "img": "https://m.media-amazon.com/images/I/915-GLC2rkL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Dystopian",
+    "title": "1984",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://cdn.kobo.com/book-images/698a1326-f8b7-4664-8f34-75f6633e816e/1200/1200/False/13xLRb-vHz2DfdgvhkjkHg.jpg"
+  },
+  {
+    "name": "Horror",
+    "title": "Frankenstein",
+    "price": 799,
+    "category": "Paid",
+    "img": "https://images-cdn.ubuy.co.in/64aa629f269fd71c695a25de-frankenstein-paperback-january-1.jpg"
+  },
+  {
+    "name": "Biography",
+    "title": "To Freedom",
+    "price": 0,
+    "category": "Free",
+    "img": "https://m.media-amazon.com/images/I/91jMa+ndqrL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Cooking",
+    "title": "Joy of Cooking",
+    "price": 2999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/51qB+vX+H9L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Travel",
+    "title": "Blue Highways",
+    "price": 0,
+    "category": "Free",
+    "img": "https://m.media-amazon.com/images/I/81T4Au8AfTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Art",
+    "title": "On Creativity",
+    "price": 1999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/51fSp2fbKWL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Young Adult",
+    "title": " A Wallflower",
+    "price": 999,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/71FZ5cRenkL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Poetry",
+    "title": "The Raven",
+    "price": 799,
+    "category": "Paid",
+    "img": "https://m.media-amazon.com/images/I/81M3aD5Ht3L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Bildungsroman",
+    "title": "Jane Eyre",
+    "price": 0,
+    "category": "Free",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692725440i/197321006.jpg"
+  }
+]
